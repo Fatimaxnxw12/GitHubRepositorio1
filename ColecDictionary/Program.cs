@@ -26,4 +26,5 @@ for (var i = 0; i < Poblacion.Length; i++)
 //mostrar los resultados
 Console.WriteLine($"Población General:{Poblacion.Sum():N0}");
 Console.WriteLine($"Departamento con mayor Población:{maxDepkey}");
+//Sumar todas las poblaciones con LINQ
 Console.WriteLine($"Departamento con menor Población:{minDepkey}");
