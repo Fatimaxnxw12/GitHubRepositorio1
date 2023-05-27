@@ -18,6 +18,8 @@ for (var i = 0; i < Poblacion.Length; i++)
         maxDepkey=Departamento[i];
     if(Poblacion[i]==minDep)
     minDepkey = Departamento[i];
+    Console.WriteLine($"mayor poblacion:{maxDepkey}");
+    Console.WriteLine($"menor poblacion:{minDepkey}");
 }
 
 for (var i = 0; i < Poblacion.Length; i++)
