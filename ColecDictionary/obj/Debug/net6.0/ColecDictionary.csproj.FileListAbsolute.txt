@@ -43,3 +43,18 @@ C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.ge
 /Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.pdb
 /Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.genruntimeconfig.cache
 /Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ref/ColecDictionary.dll
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.AssemblyReference.cache
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfoInputs.cache
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfo.cs
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.dll
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\refint\ColecDictionary.dll
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.pdb
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\bin\Debug\net6.0\ColecDictionary.exe
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\bin\Debug\net6.0\ColecDictionary.deps.json
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\bin\Debug\net6.0\ColecDictionary.runtimeconfig.json
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\bin\Debug\net6.0\ColecDictionary.dll
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\bin\Debug\net6.0\ColecDictionary.pdb
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ColecDictionary.genruntimeconfig.cache
+C:\Users\Fatima\Repositorio Fatima\ColecDictionary\obj\Debug\net6.0\ref\ColecDictionary.dll
