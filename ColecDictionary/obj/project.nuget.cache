@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ADKxX4trVr6MVGnfe7fRfRjeOkNoLCfjAWnAJWszjnoSnJKzAtu9TrSLal2Dd2lh1CrolMp1yRWQa2iuqjXqWQ==",
+  "dgSpecHash": "ejcelNNjU99m+QQZElkZ8gAgD3O7wmqYVHxuu/3et0A3Uo9raEBgsV8n/rIDHtae/m15dpV3cveJoykIP2UMKg==",
   "success": true,
-  "projectFilePath": "/Users/freddypalacios/DA2(2023)/ColecDictionary/ColecDictionary.csproj",
-  "expectedPackageFiles": [
-    "/Users/freddypalacios/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "/Users/freddypalacios/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "/Users/freddypalacios/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.16/microsoft.netcore.app.host.osx-x64.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Fatima\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
