@@ -17,6 +17,6 @@ Poblacion = ordenado.Values.ToArray();
 for (var i = 0; i < Poblacion.Length; i++)
   Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
 //suma de toda la poblacion y nombre de mayor a menor
-Console.WriteLine($"Población General:{Poblacion.Sum():N0}");
-Console.WriteLine($"Departamento con mayor Población:{maxDepkey}");
+Console.WriteLine($"Departamento con mayor poblacion:{maxDepkey}");
+Console.WriteLine($"Departamento con menor poblacion:{minDepkey}");
 Console.WriteLine($"Departamento con menor Población:{minDepkey}");
