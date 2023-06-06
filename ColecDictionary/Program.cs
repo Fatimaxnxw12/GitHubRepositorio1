@@ -31,7 +31,12 @@ Poblacion = ordenado.Values.ToArray();
 //mostrar los resultados
 for (var i = 0; i < Poblacion.Length; i++)
     Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
+<<<<<<< HEAD
 //Sumar todas las poblaciones con LINQ
 Console.WriteLine($"Población General:{diccionario.Values.Sum():N0}");
+=======
+//Sumar todas las poblaciones con SUM de LINQ
+Console.WriteLine($"Población General:{Dicccionario.Values.Sum():N0}");
+>>>>>>> d9c96fbd6a385b07a6a6cbc5285a86096cc770d7
 Console.WriteLine($"Departamento con mayor Población:{maxDepkey}");
 Console.WriteLine($"Departamento con menor Población:{minDepkey}");
