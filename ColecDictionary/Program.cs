@@ -19,11 +19,12 @@ for (var i = 0; i < Poblacion.Length; i++)
     if (Poblacion[i] == minDep)
         minDepkey = Departamento[i];
 }
-//Ordenando con diccionario y Orderby de LINQ
-var ordenado = diccionario.OrderBy(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
-Departamento = ordenado.Keys.ToArray();
-Poblacion = ordenado.Values.ToArray();
-//mostrar los resultados
+//mostrar el diccionario sin ordenar
+Console.WriteLine($"datos Desordenados");
+foreach (var item in diccionario)
+Console.WriteLine($"{item.Key,-20}==>{item.Value,10:NO}");
+Console.WriteLine();
+//ordenado con LINQ OrdeBy el diccionario
 for (var i = 0; i < Poblacion.Length; i++)
     Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
 //Sumar todas las poblaciones con LINQ
