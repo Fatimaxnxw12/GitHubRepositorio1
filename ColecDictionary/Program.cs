@@ -24,10 +24,14 @@ Console.WriteLine($"datos Desordenados");
 foreach (var item in diccionario)
 Console.WriteLine($"{item.Key,-20}==>{item.Value,10:NO}");
 Console.WriteLine();
-//ordenado con LINQ OrdeBy el diccionario
+//Ordenado con LINQ OrdeBy el diccionario
+var ordenado = diccionario.OrderBy(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
+Departamento = ordenado.Keys.ToArray();
+Poblacion = ordenado.Values.ToArray();
+//mostrar los resultados
 for (var i = 0; i < Poblacion.Length; i++)
     Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
 //Sumar todas las poblaciones con LINQ
-Console.WriteLine($"Población General:{Poblacion.Sum():N0}");
+Console.WriteLine($"Población General:{diccionario.Values.Sum():N0}");
 Console.WriteLine($"Departamento con mayor Población:{maxDepkey}");
 Console.WriteLine($"Departamento con menor Población:{minDepkey}");
