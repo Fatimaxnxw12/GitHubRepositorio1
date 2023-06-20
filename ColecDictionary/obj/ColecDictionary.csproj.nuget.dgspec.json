@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fatima\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj": {}
+    "C:\\Users\\Public\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fatima\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj": {
+    "C:\\Users\\Public\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fatima\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj",
         "projectName": "ColecDictionary",
-        "projectPath": "C:\\Users\\Fatima\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj",
+        "projectPath": "C:\\Users\\Public\\Repositorio Fatima\\ColecDictionary\\ColecDictionary.csproj",
         "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fatima\\Repositorio Fatima\\ColecDictionary\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Repositorio Fatima\\ColecDictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config"
